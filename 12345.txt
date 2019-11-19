@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 this is ali
 =======
 working on test	
 >>>>>>> master
+=======
+today is tuesday
+>>>>>>> Stashed changes
